@@ -1,0 +1,28 @@
+.calculator {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.calculator__frame {
+  padding: 30px;
+  background: #f0eeee;
+  width: 460px;
+}
+
+.calculator__button {
+  width: 150px;
+  padding: 10px 15px;
+  margin-bottom: 5px;
+}
+
+.calculator__input {
+  width: 98%;
+  height: 35px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=style.css.map */
